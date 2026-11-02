@@ -15,11 +15,6 @@ Butwal, Nepal.
 
 HTML, CSS, and JavaScript.
 
-## Run
-
-Download the project and open `MCSC(1).html` in your browser.
-No installation required.
-
 ## Contact
 
 Email: mcscbutwal@gmail.com
